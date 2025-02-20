@@ -1,0 +1,74 @@
+[
+    {
+      "title": "Degree Maila: MA 3rd Class",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Degree_Maila_MA_3rd_Class.jpg/220px-Degree_Maila_MA_3rd_Class.jpg",
+      "releaseYear": 2025,
+      "genre": "Drama/Romance",
+      "cast": [
+        { "name": "Dayahang Rai" },
+        { "name": "Aanchal Sharma" },
+        { "name": "Bijay Baral" },
+        { "name": "Buddhi Tamang" }
+      ],
+      "director": "Ram Babu Gurung",
+      "youtubeLink": "https://www.youtube.com/watch?v=Sy5x1Nwm4mw"
+    },
+    {
+      "title": "BOM BAHADUR",
+      "poster": "http://nscinemas.com/Modules/CineUploadFiles/Movie/image/Bom_234217_671489_218777.jpg",
+      "releaseYear": 2025,
+      "genre": "Drama/Action",
+      "cast": [
+        { "name": "Saugat Mall" },
+        { "name": "Prashant Rai" },
+        { "name": "Anisha Rasily" },
+        { "name": "Shantila" }
+      ],
+      "director": "John Rai",
+      "youtubeLink": "https://www.youtube.com/watch?v=HPGOQhguvJo"
+    },
+    {
+      "title": "KARSANG",
+      "poster": "http://www.friendscinemas.com/Modules/CineUploadFiles/Movie/image/KARSANF%20POSTER_359722.jpg",
+      "releaseYear": 2025,
+      "genre": "Drama/Romance/Action",
+      "cast": [
+        { "name": "Dayahang Rai" },
+        { "name": "Srijana Ningleku" },
+        { "name": "Jitu Nepal" },
+        { "name": "Deeya Maskey" },
+        { "name": "Buddhi Tamang"}
+      ],
+      "director": "YAM SHERPA",
+      "youtubeLink": "https://www.youtube.com/watch?v=g1sML8y5yIk"
+    },
+    {
+      "title": "MACHHA MACHHA",
+      "poster": "https://streetnepal.com/wp-content/uploads/2019/07/machha.jpg",
+      "releaseYear": 2025,
+      "genre": "Comedy/Romance/Action",
+      "cast": [
+        { "name": "Saugat Mall" },
+        { "name": "Bijay Baral" },
+        { "name": "Dayahang Rai" },
+        { "name": "Anoj Pandey" }
+      ],
+      "director": "Sunil Gurung",
+      "youtubeLink": "https://www.youtube.com/watch?v=lPsrqjvf13k"
+    }, 
+    {
+      "title": "TEL VISA",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWI1MDNhZjMtNzc3Mi00MWI5LWI0ZDYtMTcyOWIzYTc4MTQ1XkEyXkFqcGc@._V1_QL75_UX100_.jpg",
+      "releaseYear": 2025,
+      "genre": "Drama/Romance",
+      "cast": [
+        { "name": "Frances Sherman" },
+        { "name": "Bipin Karki" },
+        { "name": "Richa Ghimire" }
+      ],
+      "director": "Shankar Ghimire",
+      "youtubeLink": "https://www.youtube.com/watch?v=6oEghnv7hpk"
+    }
+
+  ]
+  
